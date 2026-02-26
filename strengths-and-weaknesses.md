@@ -5,3 +5,5 @@
 2. Enables tracking of different versions
 
 #Weaknesses
+
+1. Steep learning curve
